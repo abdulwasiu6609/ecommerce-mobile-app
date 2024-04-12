@@ -27,7 +27,7 @@ const App = () => {
   return (
     <NavigationContainer>
       <Tab.Navigator
-        initialRouteName="Cart"
+        initialRouteName="Menu"
         tabBarOptions={{
           labelStyle: {
             textAlign: 'center',
